@@ -22,7 +22,7 @@ This project demonstrates how the Vigenère Cipher works by encrypting and decry
    - Decrypted text  
 
 ## Files Included
-- `src/main.cpp` — the C++ program source code
+- `src/project_case3.cpp` — the C++ program source code
 - Documentation submitted separately as required by the project
 
 ## Date Published
